@@ -7,6 +7,8 @@ Soham Korade
 2021101131
 `
 
+<img src="screenshot.png"/>
+
 ## Features
 - rotation of the prism and pyramid
 - change the number of sides
