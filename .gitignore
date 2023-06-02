@@ -1,0 +1,4 @@
+*.zip
+CMakeFiles
+.vscode
+libraries/*/*
